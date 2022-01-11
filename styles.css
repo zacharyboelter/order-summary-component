@@ -43,7 +43,24 @@ body {
 }
 
 .plan-wrapper {
+    width: 90%;
+    height: 100px;
+    margin: 0 50px 35px 50px;
     display: flex;
+    flex-direction: row;
     justify-content: space-evenly;
+    background-color: hsl(225, 100%, 98%);
 
 }
+
+/* .music-img {
+    flex: 1;
+}
+
+.price {
+    flex: 1;
+}
+
+.change {
+    flex: 1;
+} */
